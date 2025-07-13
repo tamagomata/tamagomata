@@ -3,12 +3,11 @@ name: Generate Snake
 
 on:
   schedule:
-    # 毎日12時間おきに自動実行
     - cron: "0 */12 * * *"
-  workflow_dispatch:  # Actionsタブから手動実行もOK
+  workflow_dispatch:
   push:
     branches:
-      - main  # mainブランチにpushされたときにも実行
+      - main
 
 jobs:
   build:
@@ -17,12 +16,17 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
+
+      - name: Setup Git config  # ← ここを追加
+        run: |
+          git config --global user.name "tamagomata"
+          git config --global user.email "kouseiharada1012@gmail.com"
     
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: tamagomata  # 👈 あなたのGitHubユーザー名に設定済み！
+          github_user_name: tamagomata
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
