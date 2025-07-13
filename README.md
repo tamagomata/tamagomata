@@ -11,16 +11,14 @@
   <a href="#" style="text-decoration: underline; color: blue;">bug bounty</a> related issues.
 </p>
 
-
-
-<a accesskey="r" href="https://www.youtube.com/watch?v=RIPaBj4Jhvo&t=1s"></a>
-<sup>A hidden surprise...<kbd>Alt+Shift+R</kbd></sup>
-
 <div align="center">
   <a href="https://twitter.com/protamago" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
+
+<a accesskey="r" href="https://www.youtube.com/watch?v=RIPaBj4Jhvo&t=1s"></a>
+<sup>A hidden surprise...<kbd>Alt+Shift+R</kbd></sup>
 
 <h2 align="center">⚒️ Languages - Frameworks - Tools </h2>
 <br/>
