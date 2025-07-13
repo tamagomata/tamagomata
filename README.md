@@ -18,7 +18,7 @@
   </a>
 </div>
 
-<a accesskey="x" href="https://www.youtube.com/watch?v=RIPaBj4Jhvo&t=1s"></a>
+<a accesskey="x" href="https://youtu.be/_IneeB-UDFA?si=EdgXYH2x3O-xe4NB&t=60"></a>
 <sup>A hidden surprise...<kbd>Alt+Shift+x</kbd></sup>
 
 <h2 align="center">⚒️ Languages - Frameworks - Tools </h2>
