@@ -9,3 +9,10 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cs,html,js,matlab" />
+    <img src="https://skillicons.dev/icons?i=gcp,github,kali,linux,nodejs,npm,visualstudio,vscode" /><br>
+</div>
