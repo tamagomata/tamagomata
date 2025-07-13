@@ -10,9 +10,16 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
+
+<!-- 🧠 Languages -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,html,js,matlab" />
-    <img src="https://skillicons.dev/icons?i=gcp,github,kali,linux,nodejs,npm,visualstudio,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cs,html,js,matlab" />
+</div>
+<br/>
+
+<!-- 🛠 Frameworks / Tools -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,github,kali,linux,nodejs,npm,visualstudio,vscode" />
 </div>
