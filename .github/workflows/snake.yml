@@ -43,6 +43,6 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: Update snake animations
-          force: true  # ← 追加
+          keep_history: true    # ← 追加。履歴を保持してpush
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
