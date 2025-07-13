@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=hello!+%F0%9F%91%8B;+I%27m+tamagomata!" />
 </h1>
 
+
+
+
 <div align="center">
   <a href="https://twitter.com/protamago" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -23,6 +26,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=gcp,github,kali,linux,nodejs,npm,visualstudio,vscode" />
 </div>
+
+<a accesskey="r" href="https://www.youtube.com/watch?v=RIPaBj4Jhvo&t=1s"></a>
+<sup>A hidden surprise...<kbd>Alt+Shift+R</kbd></sup>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
