@@ -18,8 +18,8 @@
   </a>
 </div>
 
-<a accesskey="r" href="https://www.youtube.com/watch?v=RIPaBj4Jhvo&t=1s"></a>
-<sup>A hidden surprise...<kbd>Alt+Shift+R</kbd></sup>
+<a accesskey="x" href="https://www.youtube.com/watch?v=RIPaBj4Jhvo&t=1s"></a>
+<sup>A hidden surprise...<kbd>Alt+Shift+x</kbd></sup>
 
 <h2 align="center">⚒️ Languages - Frameworks - Tools </h2>
 <br/>
