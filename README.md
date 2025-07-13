@@ -8,8 +8,9 @@
 <p align="center">
   My name is tamagomata. I am interested in 
   <a href="#" style="text-decoration: underline; color: blue;">security</a> and 
-  <a href="#" style="text-decoration: underline; color: blue;">bug bounty</a> related issues.
+  <a href="#" style="text-decoration: underline; color: blue;">bug bounty</a> related topics and issues.
 </p>
+
 
 <div align="center">
   <a href="https://twitter.com/protamago" target="_blank">
