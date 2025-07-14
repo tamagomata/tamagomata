@@ -14,9 +14,11 @@
 
 <div align="center">
   <a href="https://twitter.com/protamago" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/protamago-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: protamago" />
   </a>
 </div>
+
+
 
 <a accesskey="x" href="https://youtu.be/_IneeB-UDFA?si=EdgXYH2x3O-xe4NB&t=60"></a>
 <sup>A hidden surprise...<kbd>Alt+Shift+x</kbd></sup>
