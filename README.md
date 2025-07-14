@@ -12,16 +12,15 @@
 </p>
 
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://twitter.com/protamago" target="_blank">
     <img src="https://img.shields.io/badge/protamago-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: protamago" />
   </a>
-</div>
-<div align="center">
   <a href="https://open.spotify.com/user/31u2vnoagwh7o7h6epiw4zmlyocu" target="_blank">
     <img src="https://img.shields.io/badge/xTm-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify: 31u2vnoagwh7o7h6epiw4zmlyocu" />
   </a>
 </div>
+
 
 
 
