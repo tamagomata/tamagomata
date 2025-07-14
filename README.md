@@ -26,7 +26,7 @@
 
 <!-- 🧠 Languages -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,html,js,matlab" />
+  <img src="https://skillicons.dev/icons?i=c,cs,html,js,python,matlab" />
 </div>
 <br/>
 
