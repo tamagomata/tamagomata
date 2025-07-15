@@ -11,7 +11,6 @@
   <a href="#" style="text-decoration: underline; color: blue;">bug bounty</a> related topics and issues.
 </p>
 
-
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://twitter.com/protamago" target="_blank">
     <img src="https://img.shields.io/badge/protamago-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: protamago" />
@@ -23,10 +22,6 @@
     <img src="https://img.shields.io/badge/-tamagomata-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Profile" />
   </a>
 </div>
-
-
-
-
 
 <a accesskey="x" href="https://youtu.be/_IneeB-UDFA?si=EdgXYH2x3O-xe4NB&t=60"></a>
 <sup>A hidden surprise...<kbd>Alt+Shift+x</kbd></sup>
