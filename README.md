@@ -19,7 +19,11 @@
   <a href="https://open.spotify.com/user/31u2vnoagwh7o7h6epiw4zmlyocu" target="_blank">
     <img src="https://img.shields.io/badge/xTm-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify: 31u2vnoagwh7o7h6epiw4zmlyocu" />
   </a>
+  <a href="https://hackerone.com/tamagomata1583" target="_blank">
+    <img src="https://img.shields.io/badge/-tamagomata-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Profile" />
+  </a>
 </div>
+
 
 
 
