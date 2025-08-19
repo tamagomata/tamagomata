@@ -31,7 +31,7 @@
 
 <!-- 🧠 Languages -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,html,js,go,python,matlab" />
+  <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,go,python,matlab" />
 </div>
 <br/>
 
