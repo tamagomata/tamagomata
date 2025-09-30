@@ -33,7 +33,7 @@
 
 <!-- 🛠 Frameworks / Tools -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,npm,visualstudio,vscode,github,gcp,linux,kali" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,visualstudio,vscode,github,gcp,linux,kali" />
 </div>
 
 
