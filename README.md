@@ -20,7 +20,9 @@
 </div>
 
 <a accesskey="x" href="https://youtu.be/FiXel0A4WzM?si=mQ0iFta5C6rubWKi&t=5"></a>
-<sup>A hidden surprise...<kbd>Alt+shift+x</kbd></sup>
+<sup>A hidden surprise...
+<kbd title="ブラウザにより異なります: Chrome(Win): Alt+X, Firefox: Alt+Shift+X, Mac: Ctrl+Option+X">Alt+X</kbd>
+</sup>
 
 <h2 align="center">⚒️ Languages - Frameworks - Tools</h2>
 <br/>
